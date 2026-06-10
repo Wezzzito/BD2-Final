@@ -23,7 +23,6 @@
   <ItemGroup>
     <Compile Include="Disco\almacenamiento.py" />
     <Compile Include="Disco\particiones.py" />
-    <Compile Include="Disco\configuracion.py" />
     <Compile Include="Estructura\arbol.py" />
     <Compile Include="Estructura\tabla.py" />
     <Compile Include="main.py" />

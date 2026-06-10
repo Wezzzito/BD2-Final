@@ -70,3 +70,4 @@ class DiscoSimulado:
         Útil para ubicar celdas desde la cuadrícula visual de la interfaz.
         """
         return (pista * self.superficies * self.sectores_por_pista) + (superficie * self.sectores_por_pista) + sector
+
